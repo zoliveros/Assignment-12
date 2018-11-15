@@ -1,0 +1,28 @@
+body{
+  background-color:#FFE4B5;
+}
+
+#main-container{
+	display: block;
+	width: 600px;
+	margin: 120px auto 20px;
+	font-family: 'Roboto', sans-serif;
+  border-radius: 200px;
+
+}
+
+.main-header{
+  background-color: #FFFAFA;
+  padding: 30px 40px;
+  color: black;
+  text-align: center;
+}
+
+.temperature{
+  position: relative;
+  background-color: red;
+	width: 200px;
+  height: 200px;
+	margin:100px;
+  margin-left:150px;
+ }
